@@ -1,4 +1,4 @@
-# Projeto 08: Sistema de Gestão de Estoque
+c# Projeto 08: Sistema de Gestão de Estoque
 
 **Disciplina:** Programação para Ciência de Dados
 **Curso:** MBA Ciência de Dados - Universidade de Fortaleza - UNIFOR
@@ -32,13 +32,13 @@ Desenvolver um sistema para gestão de estoque que permita cadastrar produtos, r
   ## Movimentar Estoque
   <img width="230" height="229" alt="image" src="https://github.com/user-attachments/assets/90f37af6-79b9-41df-89c6-fcfa20585ffb" />
 
-  ##Relatório
+  ## Relatório
   <img width="269" height="499" alt="image" src="https://github.com/user-attachments/assets/85d0571d-d626-43c9-aa07-a3e42aae8d98" />
 
-  ##Produtos em Falta
+  ##  Produtos em Falta
   <img width="253" height="323" alt="image" src="https://github.com/user-attachments/assets/b1609bc5-9f39-47d2-9325-cc0a74a4cd91" />
   
-  ##Saldo Estoque
+  ##  Saldo Estoque
   <img width="240" height="173" alt="image" src="https://github.com/user-attachments/assets/452335c5-b2c0-48f2-9add-f6d209401b32" />
   
 # Requisitos Técnicos:
