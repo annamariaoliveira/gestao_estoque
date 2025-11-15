@@ -1,4 +1,4 @@
-c# Projeto 08: Sistema de Gestão de Estoque
+# Projeto 08: Sistema de Gestão de Estoque
 
 **Disciplina:** Programação para Ciência de Dados
 **Curso:** MBA Ciência de Dados - Universidade de Fortaleza - UNIFOR
