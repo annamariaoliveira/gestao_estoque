@@ -11,6 +11,9 @@
 ## Objetivo:
 Desenvolver um sistema para gestão de estoque que permita cadastrar produtos, registrar movimentações (entrada/saída), calcular níveis de estoque, identificar produtos em falta e gerar relatórios de inventário.
 
+<img width="1007" height="674" alt="image" src="https://github.com/user-attachments/assets/425e6278-fde4-4d16-a9ef-d253be090f45" />
+
+
 ## Funcionalidades:
 - Dicionário: Possui as especificações de cada produtos;
 - Cadastrar Produto: Cadastrar um novo produto no sistema de acordo com as especificações do dicionário;
